@@ -63,3 +63,20 @@ Dragons. Yay.
 - Make more sophisticated attacks/patterns
 - Make more enemies
 - Make scoring system
+
+-## Platforms 
+ -- PhoneGap + Phaser
+ -- PhoneGap + PhoneGapBuild
+ -
+ -
+ -## Run the App
+ -open terminal
+ -
+ -`` cd dragon_ascension ``
+ -
+ -run
+ -
+ -`` phonegap serve ``
+ -
+ -it will give you the address it is running on
+ -just put that in your browser and you should see the app
