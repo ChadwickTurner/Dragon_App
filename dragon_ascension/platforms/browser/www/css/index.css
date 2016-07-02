@@ -57,6 +57,13 @@ body {
     text-align:center;
 }
 
+#dragon {
+	position: absolute;
+	top: 45%;
+	left: 40%;
+	width:30%;
+}
+
 /* Landscape layout (with min-width) */
 @media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
     .app {
