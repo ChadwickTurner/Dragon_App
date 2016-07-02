@@ -1,2 +1,4 @@
 #.gitignore
+dragon_ascension/plugins/browser.json
+
 dragon_ascension/platforms/
