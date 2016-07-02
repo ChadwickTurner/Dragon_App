@@ -69,9 +69,9 @@ Dragons. Yay.
  - PhoneGap + PhoneGapBuild
  
 ## Install PhoneGap
-[link](http://docs.phonegap.com/getting-started/1-install-phonegap/cli)
+[Official Document Here](http://docs.phonegap.com/getting-started/1-install-phonegap/cli)
 
- ## Run the App
+## Run the App
  open terminal
  
  `` cd dragon_ascension ``
