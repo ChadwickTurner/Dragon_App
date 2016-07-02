@@ -51,10 +51,12 @@ Dragons. Yay.
 
 
 ## Run the App
-- open terminal 
+open terminal
+
 `` cd dragon_ascension ``
 
 run
+
 `` phonegap serve ``
 
 it will give you the address it is running on
