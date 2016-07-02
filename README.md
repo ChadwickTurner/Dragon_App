@@ -68,7 +68,9 @@ Dragons. Yay.
  - PhoneGap + Phaser
  - PhoneGap + PhoneGapBuild
  
- 
+## Install PhoneGap
+[link](http://docs.phonegap.com/getting-started/1-install-phonegap/cli)
+
  ## Run the App
  open terminal
  
