@@ -55,6 +55,14 @@ body {
     width:100%;                   /* text area width */
     height: 100%;
     text-align:center;
+    background-repeat: repeat-x;
+
+	  animation: animatedBackground 20s linear infinite;
+}
+
+@keyframes animatedBackground {
+	from { background-position: 100% 0; }
+	to { background-position: 0 0; }
 }
 
 #dragon {
