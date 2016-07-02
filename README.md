@@ -34,3 +34,13 @@ Dragons. Yay.
   - Enemies? Imaginary? Real? Monsters? Animals?
   - Customize your character? Unlock playable characters? Unlock different dragons? Eggs? Have multiple dragons with different abilities?
   - Feel free to add more
+  - Do just fighting screen first, then add caring/customization
+  - Sprints/Goals/Tasks:
+- Make something show up on screen
+- Make an animation
+- Make attacks
+- Make enemies
+- Make attacks kill enemies
+- Make more sophisticated attacks/patterns
+- Make more enemies
+- Make scoring system
